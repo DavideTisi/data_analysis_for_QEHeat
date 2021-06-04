@@ -1,6 +1,8 @@
 # WaterSimulationLenght
 
-Notebook with an analisys of the dependence of kappa as function a the lenght of the simulation
+Notebook with an analisys of the dependence of kappa as function a the lenght of the simulations, given as supplementary material for the paper:
+
+Aris Marcolongo, Riccardo Bertossa, Davide Tisi and Stefano Baroni, "QEHeat: An open-source energy flux calculator for the computation of heat-transport coefficients from first principles", arXiv:2104.06383 
 
 
 to install thermocepstrum/Sportran https://github.com/lorisercole/thermocepstrum/tree/master clone the directory from https://github.com/lorisercole/thermocepstrum.git 
