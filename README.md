@@ -9,6 +9,7 @@ to install thermocepstrum/Sportran https://github.com/lorisercole/thermocepstrum
 
 ```
 git clone https://github.com/lorisercole/thermocepstrum.git thermocepstrum
+git checkout e22b3dfe652f29b047b3acd0e1705b1342ad485b
 cd thermocepstrum
 pip install .
 ```
